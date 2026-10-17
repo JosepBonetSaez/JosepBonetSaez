@@ -32,6 +32,11 @@ I'm **Josep Bonet i Sáez**, an Artificial Intelligence student at [Universitat 
 - Explored **SmolVLM** for image-to-text generation.
 - Tried prompt tuning, QLoRA, and in-context learning for zero-shot captioning.
 
+### 📹 Smart EdgeAI Security
+- Architected and developed a privacy-first, edge-AI security system that eliminates cloud dependency and ensures that sensitive video data never leaves the device.
+- Built real-time facial recognition that works locally on a Raspberry Pi.
+
+
 > Full projects with code & details coming soon!
 
 ---
@@ -52,6 +57,12 @@ I'm **Josep Bonet i Sáez**, an Artificial Intelligence student at [Universitat 
 
 **Languages & Libraries**  
 `Python` (Pandas, NumPy, PyTorch, Scikit-learn, NLTK, spaCy, OpenCV) · `C/C++` · `SQL`
+
+**Embedded & Hardware**
+Arduino IDE · Microcontrollers
+
+**Robotics & Simulation**
+CoppeliaSim · PID · CARLA · ROS2
 
 **Tools & Environments**  
 Linux · Bash/Zsh · Git · LaTeX · Overleaf · Microsoft Office · LibreOffice
