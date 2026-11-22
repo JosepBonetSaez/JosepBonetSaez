@@ -16,7 +16,7 @@ I'm **Josep Bonet i Sáez**, an Artificial Intelligence graduate and M.Sc. stude
 
 - 🎓 **M.Sc. in Research and Innovation in Computer-based Science and Engineering (RICSE)** — UAB *(Expected: June 2027)*
 - 🎓 **B.Sc. in Artificial Intelligence** — UAB *(Graduated: June 2026)*
-- 🏆 **1st Place in Europe & 3rd Place Worldwide** — Huawei ICT Competition (Computing Track) 2026
+- 🏆 **1st Place in Europe & 3rd Place Worldwide** — Huawei ICT Practice Competition (Computing Track) 2026
 - 🧪 Focus: Machine Learning · Deep Learning · Computer Vision · NLP · HPC
 - 🌍 Languages: Catalan (native), Spanish (native), English (C1)
 - 🌱 Currently learning: Advanced High-Performance Computing, Cyberphysical Systems, and Vision-Language Models
