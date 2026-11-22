@@ -26,7 +26,7 @@ I'm **Josep Bonet i Sáez**, an Artificial Intelligence graduate and M.Sc. stude
 
 ## 🧠 Projects
 
-### 🏃 XAFMAN — Zero-Hallucination Conversational Assistant for SAF
+### 🏃 [XAFMAN — Zero-Hallucination Conversational Assistant for SAF](https://github.com/JosepBonetSaez/XAFMAN)
 - Built a deterministic Catalan conversational assistant for UAB's Servei d'Activitat Física (SAF) during **UAB The Hack! 2026** (194k+ reservations & 48k+ registrations).
 - Decoupled reasoning from computation: the LLM only routes queries to **10 pure-pandas deterministic tools** (with a regex fallback planner) and optionally rephrases outputs.
 - Engineered a strict **number guard** (`_guard`) and full traceability panel that rejects any LLM rephrasing introducing unverified digits, guaranteeing zero numerical hallucinations.
@@ -36,15 +36,15 @@ I'm **Josep Bonet i Sáez**, an Artificial Intelligence graduate and M.Sc. stude
 - Combined a **ResNet-34** backbone with 2D sinusoidal positional encodings, iterative **Slot Attention** ($K=32$), and **Hungarian Matching**.
 - Achieved **0.91 Macro F1** on scene-level class presence detection across synthetic 8-camera scenes.
 
-### 🔬 Helicobacter Detection through Medical Imaging
+### 🔬 [Helicobacter Detection through Medical Imaging](https://github.com/JosepBonetSaez/Helicobacter)
 - Built an autoencoder-based anomaly detection system to detect **H. Pylori** bacteria in gastric tissue images.
 - Used reconstruction error + voting classifier for robust diagnosis.
 
-### 🥘 Image Captioning for Food Dishes
+### 🥘 [Image Captioning for Food Dishes](https://github.com/JosepBonetSaez/ImageCaptioning)
 - Explored **SmolVLM** for image-to-text generation and dish identification.
 - Experimented with zero-shot prompt tuning, QLoRA fine-tuning, and in-context learning.
 
-### 📹 Smart EdgeAI Security
+### 📹 [Smart EdgeAI Security](https://github.com/JosepBonetSaez/SmartEdgeAI)
 - Architected and developed a privacy-first, edge-AI security system that eliminates cloud dependency and ensures sensitive video data never leaves the device.
 - Built real-time facial recognition running locally on a Raspberry Pi.
 
